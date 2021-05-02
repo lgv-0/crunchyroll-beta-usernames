@@ -128,7 +128,6 @@ Acquainting
 Acquaints
 Acquirer
 Acquirers
-Acquisitions
 Acquisitiveness
 Acquites
 Acquittance
@@ -1094,7 +1093,6 @@ Bureaucracies
 Bureaucratically
 Bureaucratisation
 Bureaus
-Burghers
 Burglaries
 Burgling
 Burlesquing
@@ -3051,7 +3049,6 @@ Earnestness
 Earpieces
 Earthenware
 Earthiness
-Earthshattering
 Earthwards
 Earwigs
 Easels
@@ -3631,6 +3628,7 @@ Farriers
 Farthings
 Fascias
 Fascinatingly
+
 Fastened
 Fastidiously
 Fastidiousness
@@ -3930,7 +3928,6 @@ Frontispieces
 Frowningly
 Frugally
 Fruitiest
-Fruiting
 Fruitlessly
 Fruitlessness
 Frustratedly
@@ -4608,7 +4605,6 @@ Hybridised
 Hydraulically
 Hydrodynamical
 Hydrofoils
-Hydrographic
 Hydrologically
 Hydrologists
 Hydromagnetic
@@ -7815,7 +7811,6 @@ Quartiles
 Quashing
 Quasilinear
 Quavered
-Queerest
 Queries
 Querulously
 Querulousness
@@ -8375,7 +8370,6 @@ Repellingly
 Repentantly
 Repetitious
 Repetitiveness
-Rephrases
 Rephrasing
 Repined
 Repining
@@ -8766,7 +8760,6 @@ Sceptred
 Sceptres
 Schedulers
 Schemas
-Schematically
 Schismatics
 Schistosomiasis
 Schists
@@ -9341,7 +9334,6 @@ Stagnates
 Stagnating
 Staidness
 Stairhead
-Stakeholders
 Stalemates
 Stallholders
 Stamens
@@ -9356,7 +9348,6 @@ Stapling
 Starchier
 Starchiest
 Startlingly
-Stashes
 Statecraft
 Statehood
 Stateliest
@@ -9640,7 +9631,6 @@ Sumptuousness
 Sunbathed
 Sunbathers
 Sunbathing
-Sunbed
 Sundries
 Sunscreens
 Superabundance
@@ -11243,7 +11233,6 @@ Yelpings
 Zambians
 Zionists
 Zoologists
-Creditfraud
 Indentity
 Newpaste
 Linuxterminal

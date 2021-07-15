@@ -252,7 +252,6 @@ Agonises
 Agonisingly
 Agonists
 Agreeableness
-Agreeably
 Agriculturalist
 Agriculturalists
 Agriculturally
@@ -320,7 +319,6 @@ Ameliorating
 Amendable
 Amenorrhoea
 Amiability
-Amiably
 Amicability
 Ammeter
 Ammeters
@@ -357,7 +355,6 @@ Anginal
 Anglepoise
 Angolans
 Angoras
-Animosities
 Aniseeds
 Anisotropies
 Anisotropy
@@ -461,7 +458,6 @@ Appropriates
 Appropriations
 Approvals
 Approvingly
-Approximated
 Approximates
 Approximating
 Approximations
@@ -776,7 +772,6 @@ Beleaguered
 Belfries
 Belies
 Believability
-Belittle
 Belittles
 Belittling
 Belligerently
@@ -896,7 +891,6 @@ Bivouacked
 Bivouacs
 Bizarreness
 Blackballing
-Blackboards
 Blackmailers
 Blamelessly
 Blandishments
@@ -989,7 +983,6 @@ Brachiopods
 Bracingly
 Bracketing
 Braggarts
-Brainlessness
 Brainteasers
 Brainteasing
 Brandishes
@@ -997,7 +990,6 @@ Brandishing
 Brashly
 Brashness
 Brasses
-Brazened
 Brazenness
 Brazing
 Breadboards
@@ -1079,7 +1071,6 @@ Bulkiest
 Bulrushes
 Bumblers
 Bumpiest
-Bunched
 Bunching
 Bundling
 Bunglers
@@ -1316,7 +1307,6 @@ Cesspools
 Chafes
 Chaffed
 Chaffinches
-Chaining
 Chainsmoked
 Chairmanship
 Chairmanships
@@ -1738,7 +1728,6 @@ Computes
 Comradeship
 Concatenated
 Concatenates
-Concatenating
 Concatenation
 Conceding
 Conceivability
@@ -2099,7 +2088,6 @@ Counterbalancing
 Counterfeited
 Counterfeiters
 Counterfeiting
-Counterfeits
 Counterfoils
 Counterintelligence
 Countermanded
@@ -2134,7 +2122,6 @@ Coverlet
 Coverlets
 Coversheet
 Cowering
-Cowers
 Cowherd
 Coworkers
 Cowriter
@@ -2281,7 +2268,6 @@ Cylindrically
 Cypresses
 Cypriots
 Cystitis
-Cytological
 Dabbling
 Daftest
 Daintiness
@@ -2477,7 +2463,6 @@ Demonstrably
 Demonstrations
 Demonstratively
 Demonstratives
-Demonstrators
 Demoralisation
 Demounted
 Demounting
@@ -2502,7 +2487,6 @@ Denseness
 Densitometry
 Denunciation
 Denunciations
-Deodorants
 Deodorised
 Departmental
 Departmentally
@@ -2530,7 +2514,6 @@ Deprecations
 Depreciating
 Depresses
 Depressingly
-Depressives
 Deputation
 Deputations
 Deputed
@@ -2592,7 +2575,6 @@ Determinately
 Determinedly
 Determining
 Deterministically
-Deterring
 Detestably
 Detests
 Detracting
@@ -2677,7 +2659,6 @@ Dimensioning
 Diminishable
 Diminishes
 Diminutives
-Dingiest
 Dinginess
 Diocesan
 Dioptres
@@ -3755,7 +3736,6 @@ Flitted
 Floggings
 Floodlighting
 Floppier
-Floppiest
 Floridly
 Flosses
 Flotations
@@ -3837,7 +3817,6 @@ Forestalling
 Forestalls
 Foretastes
 Foretelling
-Forewarn
 Forewords
 Forfeiting
 Formalisation
@@ -3905,7 +3884,6 @@ Friendlies
 Frighteningly
 Frillier
 Frilliest
-Fringing
 Frittered
 Frittering
 Frivol
@@ -3965,7 +3943,6 @@ Furriness
 Furring
 Furthered
 Furthers
-Fusses
 Fussier
 Fussily
 Fussiness
@@ -4186,7 +4163,6 @@ Grammatically
 Granaries
 Grandads
 Granddaughters
-Granites
 Granting
 Granulation
 Granulocyte
@@ -4398,7 +4374,6 @@ Hearers
 Hearkened
 Hearkening
 Hearkens
-Hearses
 Hearten
 Heartened
 Hearthrug
@@ -4502,7 +4477,6 @@ Hominids
 Homoeopathic
 Homoeopathy
 Homogenates
-Homogeneity
 Homogeneously
 Homogenisation
 Homogenise
@@ -4722,7 +4696,6 @@ Impersonally
 Impersonators
 Imperturbability
 Imperturbably
-Impetuously
 Impinged
 Impingement
 Impinges
@@ -5671,7 +5644,6 @@ Lorryload
 Losings
 Loudhailer
 Loudhailers
-Loudmouthed
 Lounged
 Lousily
 Loutishness
@@ -5750,7 +5722,6 @@ Manageresses
 Managerially
 Managership
 Manciple
-Mandated
 Mandating
 Manfully
 Manhandling
@@ -6152,7 +6123,6 @@ Moraines
 Moralise
 Moralising
 Moralists
-Moralities
 Morasses
 Moribundly
 Morosely
@@ -6547,7 +6517,6 @@ Orimulsion
 Ornamentation
 Ornamenting
 Ornaments
-Ornately
 Ornithological
 Ornithologists
 Orthogonality
@@ -6957,7 +6926,6 @@ Perceptibly
 Perceptively
 Perceptually
 Perchlorate
-Percolating
 Percolators
 Percusses
 Percussing
@@ -7182,7 +7150,6 @@ Playwrights
 Pleadingly
 Pleadings
 Pleasantest
-Pleasantry
 Pleasurably
 Pleated
 Plectrums
@@ -7283,7 +7250,6 @@ Popularising
 Popularly
 Populism
 Populists
-Pored
 Pornographers
 Porns
 Portability
@@ -7551,7 +7517,6 @@ Professionalised
 Professionally
 Professorship
 Professorships
-Proffered
 Proffers
 Proficiently
 Profiling
@@ -7733,7 +7698,6 @@ Pupated
 Pupates
 Pupating
 Pupillage
-Puppyhood
 Purees
 Purims
 Purines
@@ -8098,7 +8062,6 @@ Rediscussed
 Redisplay
 Redisplayed
 Redistributable
-Redistribute
 Redistributes
 Redistributing
 Redistribution
@@ -8419,7 +8382,6 @@ Repudiating
 Repulsions
 Repulsively
 Reputably
-Requirement
 Requisites
 Requisitioned
 Requisitioning
@@ -8439,7 +8401,6 @@ Rescans
 Rescheduling
 Rescinding
 Rescuers
-Rescuing
 Resealed
 Researches
 Reseated
@@ -8542,7 +8503,6 @@ Revalues
 Revamping
 Revealable
 Revealingly
-Revelatory
 Revelled
 Reverberated
 Reverberates
@@ -8584,7 +8544,6 @@ Rightwingers
 Rigidifies
 Rigidify
 Rigidities
-Rigidly
 Rigours
 Ringingly
 Ringlets
@@ -8830,7 +8789,6 @@ Sectioning
 Secularisation
 Secularised
 Secularists
-Securer
 Securest
 Sedately
 Sedateness
@@ -8933,7 +8891,6 @@ Sextets
 Sextuplet
 Sextuplets
 Sexualities
-Shabbily
 Shabbiness
 Shakeups
 Shakiest
@@ -8948,7 +8905,6 @@ Shareable
 Shareholding
 Shareholdings
 Shatteringly
-Shedding
 Sheepdogs
 Sheered
 Sheerest
@@ -9071,7 +9027,6 @@ Sitings
 Sitters
 Sittings
 Situationally
-Sizing
 Sketchily
 Skilfully
 Skimping
@@ -9450,7 +9405,6 @@ Strengthens
 Streptococcal
 Stressfulness
 Stretchability
-Stretchable
 Stretchered
 Strewing
 Striation
@@ -9496,7 +9450,6 @@ Stylisation
 Stylistically
 Stylists
 Styluses
-Suavely
 Subalterns
 Subcommittee
 Subcommittees
@@ -9718,7 +9671,6 @@ Syllogistic
 Symbiotically
 Symbolisation
 Symbolising
-Symbolists
 Symmetrically
 Symmetrisation
 Symmetrising
@@ -9744,7 +9696,6 @@ Syphoning
 Systematisation
 Systemically
 Tabernacles
-Tableaux
 Tablebay
 Tableland
 Tablespoonfuls
@@ -9779,7 +9730,6 @@ Taperer
 Tappings
 Tardily
 Tarpaulins
-Tarrier
 Tarrying
 Tartness
 Tasselled
@@ -10043,7 +9993,6 @@ Traitorously
 Tramcar
 Tramcars
 Tramping
-Trampolines
 Trampolining
 Tramways
 Tranches
@@ -10147,7 +10096,6 @@ Trivialise
 Trivialised
 Trivialises
 Trivialising
-Trivially
 Trombonists
 Trooped
 Troopship
@@ -10215,7 +10163,6 @@ Typology
 Tyrannically
 Tyrannise
 Tyrannised
-Uglier
 Ugliness
 Ulcerated
 Ulcerations
@@ -10425,7 +10372,6 @@ Undressing
 Undrinkability
 Undroppable
 Undulated
-Undulating
 Undulation
 Unearthing
 Unearths
@@ -10509,7 +10455,6 @@ Unhealthily
 Unheated
 Unheeded
 Unhelpfully
-Unheroic
 Unhesitating
 Unhesitatingly
 Unhooks
@@ -10756,7 +10701,6 @@ Unties
 Untransformed
 Untransportable
 Untreatable
-Untreated
 Untrusty
 Untruthfully
 Untwist
@@ -10945,7 +10889,6 @@ Vulgarly
 Wadings
 Wafting
 Wafts
-Wagered
 Wagging
 Waggishly
 Waggling
@@ -11108,7 +11051,6 @@ Wideness
 Wideranging
 Widowers
 Widowhood
-Widths
 Wields
 Wigeons
 Wigging
@@ -11240,7 +11182,6 @@ Calk
 Cauk
 Coed
 Coft
-Culm
 Foun
 Fowk
 Gaum
@@ -11275,7 +11216,6 @@ Scup
 Scyt
 Skeg
 Slud
-Snur
 Sowt
 Sugh
 Suwe
@@ -11288,7 +11228,6 @@ Twae
 Tymp
 Tynd
 Typy
-Udal
 Unau
 Unze
 Urde
@@ -11299,7 +11238,6 @@ Wauf
 Whud
 Whup
 Wips
-Wore
 Wraw
 Wrox
 Wulk
